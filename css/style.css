@@ -385,6 +385,7 @@ code {
 .header-inner #logo .logo {
   margin-right: 5px;
   display: inline-block;
+  border-radius: 100%;
 }
 .header-inner #logo .site-title {
   font-size: 16px;
@@ -501,6 +502,7 @@ code {
   width: 40px;
   height: 40px;
   margin-right: 8px;
+  border-radius: 100%;
 }
 #sub-nav #profile-nav .fa {
   line-height: 40px;
@@ -658,6 +660,7 @@ code {
 #profile .inner .base-info #avatar {
   display: block;
   margin: 10px auto 20px;
+  border-radius: 100%;
   width: 128px;
   height: 128px;
 }
